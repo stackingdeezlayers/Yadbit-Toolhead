@@ -14,7 +14,7 @@ Yadbit was made to be practical and clean - (hopefully) better cooling, less fus
 - 2510 hotend cooling  
 - One-piece design for rigidity and simplicity  
 - Maintain full travel on V0.2 printers  
-- Printable with a **0.5 mm nozzle**
+- Printable with a **0.5mm nozzle**
 
 ## BOM:
 - 2x M3x35 BHCS/SHCS for carriage mounting
