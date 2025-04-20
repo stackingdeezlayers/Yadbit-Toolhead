@@ -1,11 +1,11 @@
 # Yadbit-Toolhead
 
-Yadbit is a unibody toolhead for Voron V0.2 printers and variants using MiniSB-style carriages. It’s built on Dragon Burner — originally starting from the Dragon Brick mod by ruiqimao — with the initial goal of improving part cooling while still keeping it simple, compact, and easy to print.
+Yadbit is a unibody toolhead for Voron V0.2 printers and variants using MiniSB-style carriages. It’s built on Dragon Burner - originally starting from the Dragon Brick mod by ruiqimao - with the initial goal of improving part cooling while still keeping it simple, compact, and easy to print.
 
 ![overview](Images/yadbitoverview.png)
 ![ducts](Images/yadbitducts.png)
 
-Yadbit was made to be practical and clean — (hopefully) better cooling, less fuss, and easy to print. The layout places the hotend fan higher in the cowl, and the part cooling fans at a slight angle. Everything fits without travel loss on a V0.2, and it prints as a single piece. Visually, it takes **a lot** of inspiration from [**Yavoth**](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth) (another project from the great **𝐜𝐡𝐢𝐫𝐩𝐲**)
+Yadbit was made to be practical and clean - (hopefully) better cooling, less fuss, and easy to print. The layout places the hotend fan higher in the cowl, and the part cooling fans at a slight angle. Everything fits without travel loss on a V0.2, and it prints as a single piece. Visually, it takes **a lot** of inspiration from [**Yavoth**](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth) (another project from the great **𝐜𝐡𝐢𝐫𝐩𝐲**)
 
 
 ## Design Goals:
@@ -29,7 +29,7 @@ Yadbit was made to be practical and clean — (hopefully) better cooling, less f
 Huge thanks to:  
 - [**chirpy**](https://github.com/chirpy2605), for the Dragon Burner and the Yavoth project  
 - [**ruiqimao**](https://github.com/ruiqimao), for the Dragon Brick mod that this was originally based on  
-- [**Armchair Heavy Industries**](https://github.com/Armchair-Heavy-Industries), for the **Mantis Xol 2** (no, not the Xol Toolhead) — it inspired much of the duct design  
+- [**Armchair Heavy Industries**](https://github.com/Armchair-Heavy-Industries), for the **Mantis Xol 2** (no, not the Xol Toolhead) - it inspired much of the duct design  
 
 
 More updates to come — feedback is welcome.
