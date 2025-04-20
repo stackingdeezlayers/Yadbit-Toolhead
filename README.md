@@ -29,7 +29,7 @@ Yadbit was made to be practical and clean - (hopefully) better cooling, less fus
 Huge thanks to:  
 - [**chirpy**](https://github.com/chirpy2605), for the Dragon Burner and the Yavoth project  
 - [**ruiqimao**](https://github.com/ruiqimao), for the Dragon Brick mod that this was originally based on  
-- [**Armchair Heavy Industries**](https://github.com/Armchair-Heavy-Industries), for the **Mantis Xol 2** (no, not the Xol Toolhead) - it inspired much of the duct design  
+- [**Armchair Heavy Industries**](https://github.com/Armchair-Heavy-Industries), for **Mantis Xol 2** (no, not Xol Toolhead) - it inspired much of the duct design  
 
 
 More updates to come — feedback is welcome.
