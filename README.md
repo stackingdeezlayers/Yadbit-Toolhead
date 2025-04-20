@@ -6,7 +6,7 @@ image
 image  
 image  
 
-Yadbit was made to be practical and clean — (hopefully) better cooling, less fuss, and easy to print. The layout places the hotend fan higher in the cowl, and the part cooling fans at a slight angle. Everything fits without travel loss on a V0.2, and it prints as a single piece. Visually, it takes **a lot** of inspiration from [**Yavoth**](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth) (another project from the great chirpy
+Yadbit was made to be practical and clean — (hopefully) better cooling, less fuss, and easy to print. The layout places the hotend fan higher in the cowl, and the part cooling fans at a slight angle. Everything fits without travel loss on a V0.2, and it prints as a single piece. Visually, it takes **a lot** of inspiration from [**Yavoth**](https://github.com/chirpy2605/voron/tree/main/V0/Yavoth) (another project from the great chirpy)
 
 
 ## Design Goals
